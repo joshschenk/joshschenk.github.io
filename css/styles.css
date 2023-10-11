@@ -104,6 +104,21 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+
+
+.bottomPic {
+  margin-top: 2em;
+}
+.projectsImg {
+  display: flex;
+  flex-direction: row;
+}
+
+.sitePic {
+  margin-right: 2em;
+  width: 30em;
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
